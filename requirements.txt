@@ -1,6 +1,6 @@
 torch
 torchvision
-numpy==1.24.3
+numpy
 Pillow
 opencv-python
 matplotlib
